@@ -77,10 +77,10 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ## **📄 License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammadadilnaeem/Conversational-Q-A-Chatbot-Using-Gemini-Pro-API/blob/main/LICENSE) file for details.
 
 ## **📞 Contact**
 
-For questions or support, please contact Muhammad Adil Naeem at [your email address].
+For questions or support, please contact Muhammad Adil Naeem at [madilnaeem0@gmail.com](madilnaeem0@gmail.com).
 
 ---
